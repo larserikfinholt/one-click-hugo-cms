@@ -1,7 +1,7 @@
 ---
 title: Korttråkkerne
-subtitle: Gulsetmarka
-image: /img/home-jumbotron.jpg
+subtitle: Stisykling
+image: /img/forside.jpg
 blurb:
   heading: Stisykling i Gulsetmarka
   text: Korttråkkerene sykler på stier i Gulsetmarka
